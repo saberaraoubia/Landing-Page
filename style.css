@@ -1,0 +1,20 @@
+body {
+    font-family: 'Roboto' ,sans-serif;                                     
+    margin: 0px;
+    padding: 0px;
+}
+
+.section1 {
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+    color: whitesmoke;
+    padding: 10px 200px;
+}  
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
