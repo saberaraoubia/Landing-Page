@@ -53,3 +53,29 @@ ul {
     align-items: center;
     background-color: gray;
  }
+
+ .left {
+    display: flex;
+    flex-direction: column; 
+    gap: 10px;
+}
+.left .text{
+    font-size: 18px;
+}
+
+ .left h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0;   
+ }
+
+ button {
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-size: 20px;
+    width: 120px;
+    border: none;
+ }
