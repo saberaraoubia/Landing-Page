@@ -1,0 +1,1 @@
+In this exercise I'm going to recreate an incredibly common website layout a "landing page"
