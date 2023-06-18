@@ -18,3 +18,17 @@ body {
     align-items: baseline;
 }
 
+ul {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    gap: 16px;
+}
+ 
+ ul li a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+ }
