@@ -36,3 +36,9 @@ ul {
  .header .logo {
     font-size: 30px;
 }
+
+.hero-section {
+    display: flex;
+    padding: 10% 0%;
+    gap: 8%;
+} 
