@@ -42,3 +42,14 @@ ul {
     padding: 10% 0%;
     gap: 8%;
 } 
+
+.left, .right {
+    width: 50%;
+ }
+
+ .hero-section .right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+ }
