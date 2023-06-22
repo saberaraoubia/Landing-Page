@@ -132,7 +132,7 @@ ul {
 } 
 
 .text-box {
-    margin: 50px 500px;
+    padding: 90px 500px;
 } 
 
 
@@ -146,6 +146,10 @@ ul {
     margin-left: auto;
     font-weight: bold;
     font-size: 20px;
-}  
+}
+
+
+
+
 
  
