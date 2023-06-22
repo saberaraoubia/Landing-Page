@@ -91,6 +91,7 @@ ul {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 5em;
 } 
 .card-container{
     width: auto;
@@ -121,5 +122,30 @@ ul {
     border-color: #3882f6;
     border-radius: 10px;    
 } 
+
+
+.section3 {
+    background-color: #e5e7eb ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+} 
+
+.text-box {
+    margin: 50px 500px;
+} 
+
+
+.text-box p {
+    font-style: italic;
+    font-size: 36px;
+}
+
+.text-box #quote {
+    width: 300px;
+    margin-left: auto;
+    font-weight: bold;
+    font-size: 20px;
+}  
 
  
