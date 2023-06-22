@@ -75,7 +75,7 @@ ul {
 
  button {
     cursor: pointer;
-    padding: 8px 16px;
+    padding: 6px 18px;
     border-radius: 8px;
     background-color: #3882f6;
     color: #e5e7eb;
@@ -148,7 +148,33 @@ ul {
     font-size: 20px;
 }
 
+.section4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px 200px;
+}
 
+.modal{
+    background-color: #3882f6;
+    display: flex;
+    align-items: center;
+    padding: 50px 200px;
+    gap: 100px;
+    border-radius: 10px;
+}
+
+.modal-text-container{
+    color: #e5e7eb;
+}  
+.modal-text-container .modal-text1{
+    font-size: 24px;
+    font-weight: bold;
+} 
+
+.sign-up {
+    border: 2px solid #e5e7eb ;  
+} 
 
 
 
